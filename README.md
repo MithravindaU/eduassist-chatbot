@@ -1,4 +1,4 @@
-# CampusMind AI 🤖📚
+# eduassist-chatbot 🤖📚
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Chatbot](https://img.shields.io/badge/AI-Chatbot-blueviolet?style=for-the-badge)
@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-CampusMind AI is an intelligent student assistant chatbot designed to help students with academic queries, study guidance, and campus-related assistance using natural language processing techniques.
+eduassist-chatbot is an intelligent student assistant chatbot designed to help students with academic queries, study guidance, and campus-related assistance using natural language processing techniques.
 
 ---
 
