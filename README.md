@@ -37,6 +37,22 @@ eduassist-chatbot is an intelligent student assistant chatbot designed to help s
 
 ---
 
+## 💬 Example Interaction
+
+User: hi
+
+Bot: hello
+
+User: What is machine learning?
+
+Bot: Machine learning is a branch of AI that enables systems to learn patterns from data and make predictions.
+
+User: bye
+
+Bot: have a fantastic day!
+---
+
+
 ## 👩‍💻 Author
 
 Mithravinda
