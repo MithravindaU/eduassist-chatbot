@@ -1,2 +1,42 @@
-# eduassist-chatbot
-eduassist-chatbot is an intelligent student assistant chatbot designed to help students with academic queries, study guidance, and campus-related assistance using natural language processing techniques.
+# CampusMind AI 🤖📚
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Chatbot](https://img.shields.io/badge/AI-Chatbot-blueviolet?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Powered-success?style=for-the-badge)
+
+## 🚀 Overview
+
+CampusMind AI is an intelligent student assistant chatbot designed to help students with academic queries, study guidance, and campus-related assistance using natural language processing techniques.
+
+---
+
+## 🧠 Technologies Used
+
+- Python
+- NLP
+- Machine Learning
+- Tkinter / Flask
+
+---
+
+## 📊 Features
+
+- Student query assistance
+- Intelligent chatbot interaction
+- Academic support system
+- Real-time response generation
+
+---
+
+## 🔮 Future Improvements
+
+- Voice assistant integration
+- Multi-language support
+- AI-based study planner
+- Personalized learning recommendations
+
+---
+
+## 👩‍💻 Author
+
+Mithravinda
